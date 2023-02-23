@@ -14,7 +14,7 @@
 dnf install nodejs
 ```
 
-![Report_nodejs-1](./img/Report_nodejs-1.png)
+![Report_nodejs-1](../img/Report_nodejs-1.png)
 
 如上图所示能够直接安装。
 
@@ -22,7 +22,7 @@ dnf install nodejs
 
 通过查询 nodejs 版本来验证是否安装成功。
 
-![Report_nodejs-2](./img/Report_nodejs-2.png)
+![Report_nodejs-2](../img/Report_nodejs-2.png)
 
 如上图所示正常输出 nodejs 版本，说明安装成功。
 
@@ -34,11 +34,11 @@ dnf install nodejs
 console.log('hello world'); 
 ```
 
-![Report_nodejs-3](./img/Report_nodejs-3.png)
+![Report_nodejs-3](../img/Report_nodejs-3.png)
 
 运行该文件，得到下图结果：
 
-![Report_nodejs-4](./img/Report_nodejs-4.png)
+![Report_nodejs-4](../img/Report_nodejs-4.png)
 
 ## 结论
 
