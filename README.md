@@ -36,7 +36,7 @@ Node.js 按照第三测试小队的测试计划进行了安装、版本验证、
 
 | 测试套  | 总数  | 通过数 | 未通过数 |
 | ------ | ----- | ----- | ---------|
-| [abort](/test/abort.md)  | 10    | 9     | 1        |
+| [abort](./test/abort.md)  | 10    | 9     | 1        |
 | [addons](./test/addons.md) | 50    | 10    | 40       |
 | [async-hooks](./test/async-hooks.md) | 87 | 87  | 0        |
 | [benchmark](./test/benchmark.md) | 34  | 33   | 1        |
