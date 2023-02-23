@@ -42,7 +42,7 @@ Node.js 按照第三测试小队的测试计划按照优先级进行了测试。
 
 - [Node.js 第一及第二优先级内容测试结果](./test/Report_nodejs.md)
   
-- 第三优先级内容测试结果：脚本自动化测试总计29个测试套，3605个测试项。其中通过测试项总数为3455个，未通过总数为150个。其中总数为0的测试套因需要make命令执行，[其部分测试结果](https://gitee.com/jammyjellyfish/openeuler-riscv-nodejs-test/tree/master/report) ,通过测试套详细结果如下表：
+- 第三优先级内容测试结果：脚本自动化测试总计29个测试套，3605个测试项。其中通过测试项总数为3455个，未通过总数为150个。其中总数为0的测试套因需要make命令执行，[其部分测试结果](https://gitee.com/jammyjellyfish/openeuler-riscv-nodejs-test/tree/master/report)存于其它仓库中，通过测试套详细结果如下表：
 
 | 测试套  | 总数  | 通过数 | 未通过数 |
 | ------ | ----- | ----- | ---------|
