@@ -36,7 +36,7 @@ Node.js 是一个开源和跨平台的 JavaScript 运行时环境。 它几乎�
 
 - 第三优先级：Node.js 在 openEuler RISC-V 上的自动化测试用例是否通过。
 
-# 4   测试结论
+# 4   测试结果
 
 Node.js 按照第三测试小队的测试计划按照优先级进行了测试。产出[安装文档](./test/nodejs%20%E5%AE%89%E8%A3%85%E6%89%8B%E5%86%8C.md)以及[构建文档](./test/%E6%9E%84%E5%BB%BA%E6%89%8B%E5%86%8C.md)。本次 Node.js 测试中，第一以及第二优先级测试已全部通过，第三优先级测试部分内容通过。
 
@@ -75,3 +75,7 @@ Node.js 按照第三测试小队的测试计划按照优先级进行了测试。
 | [v8-updates](./autotest/v8-updates.md) | 1  | 1    | 0        |
 | [wasi](./autotest/wasi.md)     | 10   | 10   | 0        |
 | [wpt](./autotest/wpt.md)      | 13   | 13   | 0        |
+
+# 5   测试结论
+
+测试结论：Node.js 基本可用，等待后续需求进行更详细的测试。
